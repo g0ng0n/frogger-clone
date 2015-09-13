@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: #fef6d5;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: #111;
+}
+
+.site-title {
+    margin: 0;
+}
