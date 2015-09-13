@@ -16,3 +16,8 @@ Game Play
 - If our Hero is killed, the hero will restart from the initial location.
 - Also If our Hero is killed by an enemy we drop the star :(
 - The game ends when the hero loose all of his lives
+
+Dev Documentation
+---
+
+-To see the Developer Documentation please see the doc folder
