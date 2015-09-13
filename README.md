@@ -1,6 +1,8 @@
 FEND Project 3 - Arcade Clone
 ===============================
 
+- To play the game just go to: http://g0ng0n.github.io/stars-collector/ :)
+
 Game Controls
 ---
 
