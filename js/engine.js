@@ -181,13 +181,13 @@ var Engine = (function(global) {
 
         // Render item only if not picked up (book.visible = true)
         if (game.star.visible) {
-            game.star.render();
+            game.star.prototype.render(game.star.sprite,game.star.x,game.star.y);
         }
         game.allEnemies.forEach(function(enemy) {
-            enemy.render();
+            enemy.prototype.render(enemy.sprite,enemy.x,enemy.y);
         });
         if (game.player.visible) {
-            game.player.render();
+            game.player.prototype.render(game.player.sprite,game.player.x,game.player.y);
         }
     }
 
